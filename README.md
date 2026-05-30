@@ -1,3 +1,7 @@
 # movie-recommender-system
-Overview
-A Machine Learning-based Movie Recommender System that suggests movies similar to the one selected by the user. The project uses content-based filtering and similarity scores to generate personalized recommendations.
+Developed a Movie Recommender System using Machine Learning and Python.
+Implemented Content-Based Filtering to recommend movies similar to the user's selection.
+Used Cosine Similarity to calculate movie-to-movie similarity scores.
+Built an interactive and user-friendly web interface using Streamlit.
+Processed and analyzed movie metadata using Pandas, NumPy, and Scikit-learn.
+Generates Top 5 personalized movie recommendations instantly based on the selected movie.
